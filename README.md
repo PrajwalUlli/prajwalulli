@@ -1,16 +1,11 @@
-## Hi there 👋
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/PrajwalUlli/prajwalulli/blob/main/assets/Mascot.png" width="120" />
 
-<!--
-**PrajwalUlli/prajwalulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <h3>Hey there 👋</h3>
+    <p>
+      yep, that’s me. <br>
+      Welcome to my corner of chaos ⚡
+    </p>
+  </div>
+</div>
