@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse;">
   <tr>
-    <td width="130" valign="top" style="border: 1px solid transparent;">
+    <td width="130" valign="top" style="border: 0px solid transparent;">
       <img src="https://github.com/PrajwalUlli/prajwalulli/blob/main/assets/Mascot.png" width="120">
     </td>
     <td style="border: 1px solid transparent;">
